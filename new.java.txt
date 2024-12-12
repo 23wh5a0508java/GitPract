@@ -1,0 +1,16 @@
+What is Routing?
+Rouing is web development refers to how an application navigates between one components to another component
+in react rouing helps manage navigation using spa(single page application) feature 
+like without reloading the complete page 
+it will load the component whatever we call for
+
+
+in this routing we are going to use 4 diff tags
+link tag: used to create navigation links btw diff routes without refreshing the page 
+BrowserRoute : which enable the routing 
+Routes: it works as container to hold all the routes
+Route :used to define a path  and component that should be rendered then the path matches to the URL
+
+
+https://getbootstrap.com/docs/4.6/components/forms/
+https://bootswatch.com/4/default/
